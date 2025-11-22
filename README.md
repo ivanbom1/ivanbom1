@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, I'm Ivan!
 
-I'm open to:<br>internships<br>hackathons<br>coding cometitions
+I'm open to:<br>• internships<br>• hackathons<br>• coding competitions
 
 
 ## 🌐 Socials:
