@@ -1,6 +1,6 @@
 ## About
 
-Second-year Computer Science student at EPITA with a passion for Full-Stack Software Engineering. I enjoy designing scalable architectures, building secure backend services, developing modern web applications, and exploring new technologies. My projects focus on clean code, maintainability, and performance. Currently seeking a Full-Stack Software Engineering Internship (July–August 2026) to <br>contribute to meaningful products while continuing to grow as an engineer.
+Second-year Computer Science student at EPITA with a passion for Full-Stack Software Engineering. I enjoy designing scalable architectures, building secure backend services, developing modern web applications, and exploring new technologies. My projects focus on clean code, maintainability, and performance. Currently seeking a Full-Stack Software Engineering Internship (July–August 2026) to contribute to meaningful products while continuing to grow as an engineer.
 
 ## Interests
 
