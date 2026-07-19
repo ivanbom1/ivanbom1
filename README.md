@@ -20,10 +20,12 @@ My primary interests are backend engineering, distributed systems, software arch
 
 - Discovering Agentic AI development under time pressure.
 - Collaboration and work management with other group members.
+- Explore and optimize usage of MuleRun AI Agents to develop a web application.
+- Learn how to use Scaleway hosting service for our product.
 
 ## My Projects
 
-### (GameHub)[https://github.com/ivanbom1/microservicesWithPython]
+### [GameHub](https://github.com/ivanbom1/microservicesWithPython)
 
 #### Duration: *May 2026 - June 2026*
 
@@ -33,7 +35,7 @@ Developed a distributed gamer social platform based on a microservices architect
 #### Technologies: 
 Python, FastAPI, PostgreSQL, SQLite, RabbitMQ, Redis, Docker, Docker Compose, JWT, Node.js.
 
-### (MITE)[https://github.com/minkyu-shim/Text-Based-Social-Media]
+### [MITE](https://github.com/minkyu-shim/Text-Based-Social-Media)
 
 #### Duration: *May 2026*
 
@@ -42,6 +44,26 @@ Developed the post management module of a text-focused social media platform, im
 
 #### Technologies: 
 Python, Flask, MongoDB, Neo4j, Redis, Docker, Docker Compose, REST APIs.
+
+### [Not Another Hero's Book](https://github.com/ivanbom1/Not-Another-Hero-s-Book)
+
+#### Duration: *February 2026*
+
+#### Project Description: 
+Developed the narrative engine and story management backend for an interactive Choose Your Own Adventure platform. Designed and implemented RESTful APIs, business logic, and database models for stories, pages, and branching choices using Flask and SQLAlchemy. Integrated the Flask API with a Django frontend supporting user authentication, role-based access control, gameplay tracking, and story analytics. Contributed to the overall application architecture by separating content management from user management into independent services.
+
+#### Technologies: 
+Python, Flask, Django, SQLAlchemy, SQLite, REST APIs, HTML, CSS.
+
+### [RecycleScan](https://github.com/arcreane/android-project-curry-rice)
+
+#### Duration: *April 2026 - May 2026*
+
+#### Project Description: 
+Implemented the camera subsystem and machine learning pipeline for RecycleScan, a native Android application that identifies recyclable items from photographs and provides disposal guidance. Integrated the Android Camera API with a TensorFlow Lite model for on-device image classification, performed code reviews, and coordinated the integration of application modules developed by the team to deliver a fully functional Android application.
+
+#### Technologies: 
+Java, Android SDK, TensorFlow Lite, Gradle, IntelliJ IDEA.
 
 ## Technical Stack
 
