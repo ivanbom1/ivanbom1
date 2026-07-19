@@ -21,11 +21,33 @@ My primary interests are backend engineering, distributed systems, software arch
 - Discovering Agentic AI development under time pressure.
 - Collaboration and work management with other group members.
 
+## My Projects
+
+### (GameHub)[https://github.com/ivanbom1/microservicesWithPython]
+
+#### Duration: *May 2026 - June 2026*
+
+#### Project Description: 
+Developed a distributed gamer social platform based on a microservices architecture. Designed and implemented independent services for authentication, user management, game library management, activity tracking, notifications, and GDPR-compliant logging. Built a FastAPI API Gateway with JWT authentication, asynchronous inter-service communication using RabbitMQ, and centralized request tracing. Containerized the complete application with Docker and Docker Compose, applying modern software engineering practices including event-driven architecture, service isolation, and scalable API design.
+
+#### Technologies: 
+Python, FastAPI, PostgreSQL, SQLite, RabbitMQ, Redis, Docker, Docker Compose, JWT, Node.js.
+
+### (MITE)[https://github.com/minkyu-shim/Text-Based-Social-Media]
+
+#### Duration: *May 2026*
+
+#### Project Description: 
+Developed the post management module of a text-focused social media platform, implementing RESTful routes, business logic, and database queries for creating, retrieving, updating, and searching user posts. Designed and implemented a graph-based recommendation system in Neo4j to suggest relevant users and content based on social relationships. Reduced database load and improved recommendation response times by implementing Redis-based query caching. Created a comprehensive mock data seeding system to generate realistic datasets for development, testing, and demonstration purposes, ensuring reliable validation of application features across MongoDB, Neo4j, and Redis.
+
+#### Technologies: 
+Python, Flask, MongoDB, Neo4j, Redis, Docker, Docker Compose, REST APIs.
+
 ## Technical Stack
 
 ### Languages
 
-Python • Java • C • C++ • JavaScript • TypeScript • SQL
+Python • Java • C++ • JavaScript • TypeScript • SQL
 
 ### Backend
 
