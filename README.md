@@ -4,7 +4,9 @@ Second-year Computer Science student at EPITA with a passion for Full-Stack Soft
 
 ## Interests
 
-My primary interests are backend engineering, distributed systems, software architecture, cloud computing, operational security. I enjoy understanding how systems are designed, how services communicate at scale, and how engineering decisions impact performance, reliability, and maintainability.
+My primary interests are backend engineering, distributed systems, software architecture, cloud computing, and operational security. I enjoy understanding how systems are designed, how services communicate at scale, and how engineering decisions impact performance, reliability, and maintainability.
+
+I also have a growing interest in machine learning, particularly model training and deployment. Through academic projects, I have trained TensorFlow models and integrated them into production-like applications, gaining practical experience in the end-to-end machine learning workflow - from model development to deployment within software systems.
 
 ## Experience
 
